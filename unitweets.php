@@ -4,7 +4,7 @@ Plugin Name: UniTweets
 Plugin URI: http://unitinteractive.com/labs/unitweets.php
 Description: Searches one or many Twitter accounts and inserts matching tweets as blog posts. Uses <a href="http://emmense.com/php-twitter/">PHP Twitter by Emmense Techologies</a>
 Version: 0.1.0
-Author: R.A. Ray
+Author: Unit Interactive
 Author URI: http://unitinteractive.com/unit-info.php
 
 This program is free software; you can redistribute it and/or modify
